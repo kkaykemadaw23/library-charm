@@ -1,0 +1,44 @@
+header {
+  max-width: 80%;
+  margin-inline: auto;
+  padding-top: 3.5rem;
+
+  & > nav {
+    justify-content: space-between;
+
+    & .logo-img {
+      background-image: url(../assets/logo-horizontal.svg);
+      width: 230px;
+      height: 58px;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    & > .button {
+      line-height: 80%;
+    }
+  }
+}
+
+@media (width <= 37.5rem) {
+  header {
+    max-width: 90%;
+    padding-top: 1.25rem;
+    
+    & > nav {
+
+      & .logo-img {
+        background-image: url(../assets/logo.svg);
+        width: 64px;
+        height: 48px;
+      }
+    }
+  }
+}
+
+@media (width >= 37.5rem) and (width <= 62.5rem) {
+  header {
+    max-width: 90%;
+    padding-top: 2.5rem;
+  }
+}
