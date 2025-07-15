@@ -1,42 +1,37 @@
-# Encantos literários 📓🐰
+Literary Charms 📓🐰
 
-![Encantos literários](assets/readme/homepage.png)
 
-## Overview ⭐
+Overview ⭐
+This project simulates a landing page for a book subscription club. It was designed to help practice CSS animation concepts. The page is rich in animation and transition details—from buttons, images appearing on screen, positioning, and much more! It was also designed to adapt to various screen sizes, so don’t hesitate to explore every detail of this project.
 
-Este projeto simula uma landing page para um clube de assinatura de livros. É um design desenvolvido para praticarmos os conceitos de animações com css, a página é rica em detalhes de animações e transições, desde botões, imagens que aparecem na tela, posicionamento, e muito mais! Também foi pensado para se adaptar a varios tamanhos de tela diferente, não hesite em explorar cada detalhe desse projeto.
+Technologies used 🧩
 
-## Technologies used 🧩
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+About the development 🛠️
+The development of this project was quite challenging. I dedicated a lot of time to make it as faithful as possible to the original design. I didn't want my final project of the HTML and CSS module to be “half-baked,” so I spent a lot of time fine-tuning every detail—every animation, transition, and responsiveness. I did my best to make it as pleasant as possible, ensuring a great user experience while navigating the page.
 
-## About the development 🛠️
+Honestly, I’m really satisfied with the result of this project. All the effort paid off in the end.
 
-O desenvolvimento desse projeto foi algo bem desafiador, me dediquei bastante para deixar o mais fiel possível ao design original, não queria que meu último projeto do módulo HTML e CSS ficasse algo "meia boca", então tomei bastante tempo para ajustar cada detalhe, cada animação de ida e volta, toda responsividade, fiz o máximo para deixar o mais agradável possivel e o usuário ter uma ótima experiência ao navegar pela página.
+So don’t be afraid to explore this project to its fullest—every animation and screen size behavior was carefully planned to work perfectly.
 
-Sinceramente estou bem satisfeito com o resultado desse projeto que desenvolvi, tanta dedicação no final valeu a pena.
+Features ✅
+Responsive layout: adapts to various screen sizes.
 
-Então não tenha medo de explorar esse projeto ao máximo, todas animações, tamanhos de tela, tudo foi minimamente pensado pra funcionar perfeitamente.
+Exclusive details: subtle style variations for different viewports.
 
-## Features ✅
+Showcase desktop 💻
 
-- Layout responsivo: adaptado para diversos tamanhos de tela.
-- Detalhes exclusivos: pequenas variações de estilo para diferentes telas.
 
-## Showcase desktop 💻
 
-![Encantos literários](assets/readme/description-raw.png)
-![Encantos literários](assets/readme/description-active.png)
-![Encantos literários](assets/readme/book-raw.png)
-![Encantos literários](assets/readme/book-active.png)
-![Encantos literários](assets/readme/pricing-raw.png)
-![Encantos literários](assets/readme/pricing-active.png)
 
-## Showcase mobile 📱
 
-![Encantos literários](assets/readme/mobile/mobile-homepage.png)
-![Encantos literários](assets/readme/mobile/mobile-description-raw.png)
-![Encantos literários](assets/readme/mobile/mobile-description-active.png)
-![Encantos literários](assets/readme/mobile/mobile-book-raw.png)
-![Encantos literários](assets/readme/mobile/mobile-book-active.png)
-![Encantos literários](assets/readme/mobile/mobile-pricing.png)
+
+
+Showcase mobile 📱
+
+
+
+
+
+
+
